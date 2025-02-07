@@ -1,5 +1,10 @@
 ## Hi there 👋
-Pruebaaa PL
+
+- 🌱 I’m currently learning JavaScript, Python and C++.
+- 👯 I’m looking to collaborate on OpenSource projects related with environmental awareness.
+- 📫 How to reach me: https://www.linkedin.com/in/enmanuel-vegas/
+- ⚡ Fun fact: Pasta exists since 4th Century BC!
+
 <!--
 **EnmanuelVegas/EnmanuelVegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
